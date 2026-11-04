@@ -50,28 +50,25 @@ Requisitos não funcionais
 
 Metodologia de desenvolvimento
 
-O projeto utiliza metodologias ágeis, com:
+O projeto utiliza metodologias ágeis, como:
 
 * Sprints quinzenais.
 * Quadro Kanban para acompanhamento das tarefas.
 * Planejamento integrado.
 * Reuniões de alinhamento e retrospectivas.
 
-Tecnologias e arquitetura
-
-Esta seção será complementada após a definição da arquitetura, das tecnologias utilizadas e da organização interna do sistema.
-
 Documentação
 
 * Documentação técnica: docs/
-* Manual do usuário: manuais/
-* Manual técnico: manuais/
-* Apresentação e Canvas: pitch/
+* Manual do usuário: manual-usuario/
+* Manual técnico: manual-tecnico/
+* Apresentação e Canvas: pitch-canvas/
 * Protótipo navegável: prototipo/
+* Relatórios: relatorio-testes/
 
 Protótipo
 
-Link de acesso: [INSERIR LINK DO PROTÓTIPO]
+Link de acesso: [https://crystal-clin-flow-care.base44.app/login]
 
 Equipe
 
