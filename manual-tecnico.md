@@ -1,1 +1,1 @@
-# Manual-Técnico
+# Manual Técnico
