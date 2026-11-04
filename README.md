@@ -1,4 +1,4 @@
-# Projeto-SOS-Hospitalar
+# Projeto SOS Hospitalar
 SOS Hospitalar
 O SOS Hospitalar é um sistema de gestão de emergência hospitalar desenvolvido com o objetivo de automatizar e centralizar os processos de atendimento, reduzindo tarefas manuais e melhorando a eficiência operacional.
 
