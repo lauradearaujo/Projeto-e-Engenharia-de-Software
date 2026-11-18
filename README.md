@@ -66,9 +66,6 @@ Documentação
 * Protótipo navegável: prototipo/
 * Relatórios: relatorio-testes/
 
-Protótipo
-
-Link de acesso: [https://crystal-clin-flow-care.base44.app/login]
 
 Equipe
 
