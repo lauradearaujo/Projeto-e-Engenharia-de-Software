@@ -1,15 +1,10 @@
 # Manual Técnico
-4. Manual Técnico e Manutenção
-
-SOS Hospitalar | Engenharia de Software
-
-Objetivo
 
 Este manual tem como objetivo orientar a continuidade do projeto SOS Hospitalar, desde a organização dos arquivos até o controle de versões e os cuidados necessários para a manutenção da solução.
 
 Atualmente, o projeto possui um protótipo navegável. Portanto, banco de dados, servidor e serviços em produção não devem ser considerados implementados sem comprovação.
 
-⸻
+
 
 4.1 Organização técnica dos arquivos
 
@@ -44,7 +39,9 @@ Exemplo de fluxo básico de comandos:
 git switch main
 git pull
 git switch -c manual-tecnico
+
 # Editar os arquivos necessários
+
 git add .
 git commit -m "Atualiza manual técnico"
 git push
@@ -66,7 +63,7 @@ O procedimento deve incluir:
 * Realização de testes.
 * Revisão da alteração antes da publicação.
 
-Manutenção preventiva
+# Manutenção preventiva
 
 Tem como objetivo evitar problemas futuros por meio de verificações periódicas.
 
@@ -106,7 +103,7 @@ Atenção: nunca registrar senhas ou dados reais de pacientes no repositório do
 
 4.5 Estimativas de custos
 
-O planejamento inicial do SOS Hospitalar apresenta as seguintes estimativas:
+# O planejamento inicial do SOS Hospitalar apresenta as seguintes estimativas:
 
 Categoria	Custo estimado
 Desenvolvimento	R$ 20.000 a R$ 60.000
